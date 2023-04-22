@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.para {
+  color: black;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 10px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.arrow {
+  height: 20px;
+}

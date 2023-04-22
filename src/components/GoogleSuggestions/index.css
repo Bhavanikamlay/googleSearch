@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.google {
+  height: 50px;
+}
+.container {
+  box-shadow: 1px 4px 8px 1px rgb(83, 82, 82);
+  min-height: 100px;
+  min-width: 500px;
+  border-radius: 10px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.search-cont {
+  display: flex;
+}
+.icon {
+  height: 25px;
+  margin-right: 10px;
+}
+
+.search-1 {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  font-size: 15px;
+  width: 90%;
+}
+.unordered-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
